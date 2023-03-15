@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usmendra Singh</h1>
 <h3 align="center">I have a huge interest in penetration testing and frontend development</h3>
 
-- 🔭 I’m currently working on a website **The Serious Psychology** (https://usmendra1312.github.io/theseriouspsychology/)
-
 - 🌱 I’m currently learning **Solidity, Data structures, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/usmendra1312](https://github.com/usmendra1312)
