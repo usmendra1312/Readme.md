@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usmendra Singh</h1>
-<h3 align="center">I have a huge interest in penetration testing and frontend development</h3>
+<h3 align="center">I have a huge interest in penetration testing and security</h3>
 
 -   I have knowledge of Ethical Hacking(CEH)
 
