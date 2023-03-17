@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Usmendra Singh</h1>
 <h3 align="center">I have a huge interest in penetration testing and frontend development</h3>
 
-- 🌱 I’m currently learning **Solidity, Data structures, Java**
+-  I have knowledge of Ethical Hacking(CEH)
+
+- 🌱 Kindely do visit my **portfolio** https://usmendra.epizy.com
 
 - 👨‍💻 All of my projects are available at [https://github.com/usmendra1312](https://github.com/usmendra1312)
 
 - 🏆 All of my gists are available at. https://gist.github.com/usmendra1312
 
-- 💬 Ask me about **Data Structures and Algorithms, Debian Linux, Instagram Marketing, Web development, UI/UX, React.js, SASS, BootStrap**
+- 💬 Ask me about **Data Structures and Algorithms, Debian Linux, Ethical Hacking, Security, Python, Networks.**
 
 - 📫 My email u.singh31143115@gmail.com
 
